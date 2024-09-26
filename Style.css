@@ -1,0 +1,32 @@
+.card {
+    background-image: url("C:/Users/sumanth/OneDrive/Desktop/html/frontend/To Do List/to-do-list-pic.jpg");
+    background-size: cover;
+    color: white;
+    font-family: Roboto;
+    height: 100vh;
+    padding: 20px;
+
+    
+}
+
+.main_1 {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.button_1 {
+    background-color: orange;
+    color: white;
+    width: 60px;
+    padding: 10px;
+}
+h5{
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+}
